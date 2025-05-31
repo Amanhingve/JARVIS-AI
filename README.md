@@ -57,7 +57,7 @@ JARVIS AI is a versatile voice-activated personal assistant designed to perform 
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Amanhingve/JARVIS-AI.git
     &
     DVD-CD JARVIS AI # copy this DVD-CD project Or your project's root directory name
     cd JARVIS AI # Or your project's root directory name
