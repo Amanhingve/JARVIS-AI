@@ -1,5 +1,8 @@
 # JARVIS AI Assistant
 
+<img width="917" alt="Screenshot UI" src="https://github.com/user-attachments/assets/e1304243-fef7-412e-a8b8-da9939c8ad8a" />
+
+
 ## Project Overview
 
 JARVIS AI is a versatile voice-activated personal assistant designed to perform a variety of tasks through natural language commands. It integrates with multiple services and local system functionalities to provide a seamless user experience. Key capabilities include web browsing and searching, application control, file reading (DOCX, PDF, PPTX, KEY), system monitoring (battery, USB), and Android device control via ADB.
