@@ -101,12 +101,12 @@ JARVIS AI is a versatile voice-activated personal assistant designed to perform 
     *   Ensure you have a webcam connected.
     *   Run the `sample.py` script to capture face samples:
         ```bash
-        python BRAIN/auth/sample.py
+        python3 BRAIN/auth/sample.py
         ```
         Follow the prompts (enter a numeric user ID, e.g., `1`).
     *   Run the `trainer.py` script to train the face recognizer:
         ```bash
-        python BRAIN/auth/trainer.py
+        python3 BRAIN/auth/trainer.py
         ```
     *Note: The authentication is currently enabled in `main.py`. You can comment it out if not needed.*
 
