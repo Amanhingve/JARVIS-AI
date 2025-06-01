@@ -225,3 +225,18 @@ JARVIS AI/
 │   └── ui.py                       # PyQt5 based GUI application script (alternative to standalone mode)
 └── .gitignore                      # Specifies intentionally untracked files for Git
 ```
+
+#Project screenshot
+
+![jarvis ui](https://github.com/user-attachments/assets/f1dd7b48-dc38-4c56-91d4-394bbeb48835)
+
+
+<img width="917" alt="Screenshot" src="https://github.com/user-attachments/assets/4a76e0e2-df9b-4091-bb89-8d712fa0b9dc" />
+
+<img width="806" alt="Screenshot" src="https://github.com/user-attachments/assets/2772a257-b43b-4980-8a88-e4ff7cb57d08" />
+
+<img width="832" alt="Screenshot" src="https://github.com/user-attachments/assets/42b0c618-b714-40b4-873a-544ec5961cb9" />
+
+<img width="817" alt="Screenshot" src="https://github.com/user-attachments/assets/d98ef8b6-9208-4d48-a995-a796730231d3" />
+
+<img width="1676" alt="Screenshot" src="https://github.com/user-attachments/assets/578981e5-3767-4a62-a907-aca2cd66666d" />
